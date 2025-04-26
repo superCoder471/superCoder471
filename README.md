@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @superCoder471
-- 👀 I’m interested in math and science and terraria.
-- 🌱 I’m currently learning that I'm not that great at terarria. 
-- 💞️ I’m looking to collaborate on not much at the moment
-- 📫 How to reach me dont.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: My scratch accounts are macncheesehead and my new one is superScratcher47
+- 👀 I’m interested in chemistry, and physics, and coding, and way to much at the moment.
+- 🌱 I’m currently learning that i suck at javascript
+- 💞️ I’m looking to collaborate on maybe some stuff. Im working on a cool RSA encryption thing (as of 4/26/25). Anyone understand p2p info transfering.
+- 📫 How to reach me: discord - this_is_an.alt
+- 😄 Pronouns: beep/boop
+- ⚡ Fun fact: still suck at javascript
 
 <!---
 superCoder471/superCoder471 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
